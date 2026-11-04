@@ -1,0 +1,23 @@
+{
+  "name": "safarmehreh",
+  "version": "0.0.1",
+  "description": "سفر مهره‌ها - بازی مسابقه‌ای / صفحه‌ای (Race Game)",
+  "main": "src/js/main.js",
+  "scripts": {
+    "dev": "npx http-server -p 3000",
+    "build": "echo 'Build script to be added'",
+    "test": "echo 'Tests to be added'"
+  },
+  "keywords": [
+    "game",
+    "persian",
+    "farsi",
+    "board-games"
+  ],
+  "author": "andrbi107",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrbi107/SafarMehreh.git"
+  }
+}
